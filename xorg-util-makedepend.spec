@@ -1,11 +1,11 @@
 Summary:	makedepend utility
 Name:		xorg-util-makedepend
-Version:	1.0.4
-Release:	2
+Version:	1.0.5
+Release:	1
 License:	MIT
 Group:		X11/Development/Tools
 Source0:	http://xorg.freedesktop.org/releases/individual/util/makedepend-%{version}.tar.bz2
-# Source0-md5:	7acb9a831817fdd11ba7f7aaa3c74fd8
+# Source0-md5:	0475638eb40a3920d0d3f14482c924a4
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
